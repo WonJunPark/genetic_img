@@ -2,4 +2,4 @@
 
 referecne : https://github.com/kairess/genetic_image/blob/master/main.py
 
-![
+![img](./img.png)
